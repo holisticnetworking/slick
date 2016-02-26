@@ -1,0 +1,6 @@
+{
+    "name": "holisticnetworking/slick",
+    "description": "The Last Carousel You Will Ever Need, now available for Composer"
+    "type": "library",
+    "keywords": ["slick", "carousel", "jquery"]
+}
